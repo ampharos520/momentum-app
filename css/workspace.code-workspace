@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "css project 1",
+			"path": "../../css project 1"
+		},
+		{
+			"name": "Momentum",
+			"path": ".."
+		},
+		{
+			"path": "../../Downloads/scss-masterclass-ab6fdddcc48762ca61b86b9c01f2d1c3e44badbd"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Momentum"
+	}
+}
